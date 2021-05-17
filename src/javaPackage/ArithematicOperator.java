@@ -4,7 +4,7 @@ public class ArithematicOperator {
 
 	public static void main(String[] args) {
 		 
-		int a=30; // local variable 
+		int a=50; // local variable 
 		int b=50; // local variable 
 		
 		System.out.println(a+b); //40
