@@ -14,7 +14,7 @@ public class BreakStatement1 {
 
 			System.out.println(i);
 		}
-		System.out.println("Control came out of the loop");
+		System.out.println("Control came out of the loop as expected");
 	}
 
 }
